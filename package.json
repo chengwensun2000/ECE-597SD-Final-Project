@@ -10,6 +10,9 @@
     "lint": "eslint ."
   },
   "dependencies": {
+    "@react-native-firebase/app": "^16.4.6",
+    "@react-native-firebase/database": "^16.4.6",
+    "@react-native-firebase/firestore": "^16.4.6",
     "@viro-community/react-viro": "^2.20.2",
     "react": "17.0.2",
     "react-native": "0.65.1"
